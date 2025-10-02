@@ -1,0 +1,32 @@
+
+h1{
+	color: #613c10;
+}
+
+body{
+	background-color:#9c6644;	
+}
+
+p{
+	color:;
+}
+
+.greenparagraph{
+	color: #690f0f;
+}
+
+table,td{
+border-style: dotted ;
+}
+table{
+	border-width: 4px ;
+	border-color: #8a1212;
+	margin-left: auto;
+	margin-right: auto;
+}
+td{
+	border-width: 2px;
+}
+body{
+	background-image: url;(hola)
+}
